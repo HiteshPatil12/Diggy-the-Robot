@@ -1,5 +1,5 @@
 <?php
-//Code for print last location of Diggy Robot, Hitesh 13/10/2020
+//Code to print last location of Diggy the robot, Hitesh 13/10/2020
 const NORTH = 1;
 const EAST = 2;
 const SOUTH = 3;
